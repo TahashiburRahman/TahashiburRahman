@@ -20,7 +20,6 @@
 <p align="left">
 <a href="https://fb.com/tasu10100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tasu10100" height="30" width="40" /></a>
 <a href="https://instagram.com/tashu__3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tashu__3" height="30" width="40" /></a>
-<a href="https://twitter.com/@tahashib3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tahashib3" height="30" width="40" /></a>
 <a href="https://codepen.io/tahashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahashib" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19826810/tashu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tashu3" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tahashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tahashib" height="30" width="40" /></a>
