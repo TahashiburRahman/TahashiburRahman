@@ -3,7 +3,8 @@
 <h3 align="center">A passionate web developer from Bangladesh who loves his work</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/534/0*_pWYv_PSM3zqE3dV.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahashiburrahman&label=Profile%20views&color=0e75b6&style=flat" alt="tahashiburrahman" /> </p>
-<p align="left"> <a href="https://twitter.com/@tahashib3" target="blank"><img src="https://img.shields.io/twitter/follow/@tahashib3?logo=twitter&style=for-the-badge" alt="@tahashib3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@tahashib3" target="blank"><img src="https://img.shields.io/twitter/follow/Tahashib3?color=red&logo=twitter&style=for-the-badge" alt="@tahashib3" /></a> </p>
+<p align="left"><img src="https://img.shields.io/github/last-commit/google/skia?color=purple&logo=github&style=for-the-badge" alt="@tahashib3" /></p>
 
 - 🔭 I’m currently working on **Track Back**
 
