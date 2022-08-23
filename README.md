@@ -1,7 +1,7 @@
-[![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Tahashibur Rahman</h1>
 <h3 align="center">A passionate web developer from Bangladesh who loves his work</h3>
-<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/534/0*_pWYv_PSM3zqE3dV.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahashiburrahman&label=Profile%20views&color=0e75b6&style=flat" alt="tahashiburrahman" /> </p>
 
 
