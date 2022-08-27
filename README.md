@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/534/0*_pWYv_PSM3zqE3dV.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahashiburrahman&label=Profile%20views&color=0e75b6&style=flat" alt="tahashiburrahman" /> </p>
 <p align="left"> <a href="https://twitter.com/@tahashib3" target="blank"><img src="https://img.shields.io/twitter/follow/Tahashib3?color=skyblue&label=Follow-to-support&logo=Twitter&style=for-the-badge" alt="@tahashib3" /></a> </p>
-<p align="left"><img src="https://img.shields.io/github/last-commit/google/skia?color=purple&logo=github&style=for-the-badge" alt="@tahashib3" /></p>
+<p align="left"><a href="https://www.google.com/search?q=Tashu+d.+Rahman&rlz=1C1AVFC_enBD1017BD1017&oq=tashu+d.+Rahman&aqs=chrome.0.69i59j69i61l3.1777j0j7&sourceid=chrome&ie=UTF-8"><img src="https://custom-icon-badges.herokuapp.com/badge/find-me-blue.svg?logo=search&logoColor=green" alt="tasu"/></a></p>
 
 - 🔭 I’m currently working on **Track Back**
 
@@ -18,7 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tasu10100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tasu10100" height="30" width="40" /></a>
 <a href="https://instagram.com/tashu__3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tashu__3" height="30" width="40" /></a>
 <a href="https://codepen.io/tahashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahashib" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19826810/tashu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tashu3" height="30" width="40" /></a>
