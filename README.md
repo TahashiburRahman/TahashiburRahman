@@ -35,92 +35,90 @@ I'm **Tahashibur Rahman**, a web developer who likes the intersection of **clean
 
 ---
 
-## 02 / Developer toolbox
+## 02 / My developer toolbox
 
-My stack is centered on **responsive frontend development, PHP/Laravel applications and WordPress websites**. I like giving every project a clean layout and a solid foundation.
+<div align="center">
 
-<table>
-  <tr>
-    <td width="28%"><strong>🎨 Frontend & Styling</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>⚙️ Backend & CMS</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>💻 Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🧰 Workflow & Design</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-    </td>
-  </tr>
-</table>
+<img width="100%" src="assets/development-map.svg" alt="Graphic connecting frontend, Laravel, WordPress and JavaScript development"/>
 
-<sub>Bootstrap is part of my responsive UI toolkit; Python is something I'm continuing to learn.</sub>
+<br>
+
+**Frontend & styling**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark" alt="HTML CSS Bootstrap JavaScript"/>
+
+**Backend, CMS & database**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql&theme=dark" alt="PHP Laravel WordPress MySQL"/>
+
+**Languages I'm learning and exploring**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Python C C++"/>
+
+**Tools & creative workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ps&theme=dark" alt="Git GitHub VS Code Photoshop"/>
+
+</div>
 
 ---
 
-## 03 / What I'm building & learning
+## 03 / The kind of work I enjoy
 
-| Focus | The work |
-| :--- | :--- |
-| 🌐 **Web apps** | Responsive websites and user-friendly interfaces |
-| ⚙️ **Backend** | PHP, Laravel and database-driven features |
-| 🛒 **E-commerce** | Storefronts, product cards and category experiences |
-| 🎨 **UI/UX** | Layouts, interactions and practical design improvements |
-| 🐍 **Learning** | Python and programming fundamentals |
+🌐 **Frontend development** — responsive layouts, CSS details, Bootstrap and approachable interfaces.
+
+⚙️ **Laravel & PHP applications** — workflows, forms, databases and practical backend features.
+
+🛒 **E-commerce experiences** — product layouts, category pages and storefront experiences.
+
+🧩 **Extensions & experiments** — exploring JavaScript outside traditional websites.
+
+🐍 **Still learning** — Python and new approaches to problem solving.
 
 > Build something. Break something. Learn something. Repeat.
 
 ---
 
-## 04 / Selected repositories
+## 04 / Selected work
 
-Here are a few examples of the things I've built and explored:
+<div align="center">
 
-| Project | Focus |
-| :--- | :--- |
-| 🛒 **[Laravel E-commerce](https://github.com/TahashiburRahman/Basic-Ecommerce-Laravel-12)** | E-commerce application using Laravel |
-| 💼 **[Job Finder BD](https://github.com/TahashiburRahman/job-portal)** | Laravel 12, PHP and MySQL job portal |
-| 🏢 **[Office Management System](https://github.com/TahashiburRahman/OMS-Laravel)** | Laravel-based management application |
-| 📰 **[WordPress Dynamic Website](https://github.com/TahashiburRahman/WordPress-FullStack-Dynamic-Website-Sixthandrio)** | WordPress website project |
-| 🧩 **[Daily Work Log Extension](https://github.com/TahashiburRahman/task-update-extension)** | Browser extension using local storage |
+<img width="100%" src="assets/project-mix.svg" alt="Donut chart: 3 Laravel projects, 1 WordPress project and 1 browser extension in the featured selection"/>
+
+<sub>This chart represents the five projects featured below, not a count of all my repositories or a language usage analysis.</sub>
+
+</div>
+
+### 🛒 [Laravel E-commerce](https://github.com/TahashiburRahman/Basic-Ecommerce-Laravel-12)
+An e-commerce application built with Laravel.
+
+### 💼 [Job Finder BD](https://github.com/TahashiburRahman/job-portal)
+A Laravel 12 job portal with public job search, employer and candidate workspaces, and administration features.
+
+### 🏢 [Office Management System](https://github.com/TahashiburRahman/OMS-Laravel)
+An office management application using Laravel.
+
+### 🌐 [WordPress Dynamic Website](https://github.com/TahashiburRahman/WordPress-FullStack-Dynamic-Website-Sixthandrio)
+A WordPress website project.
+
+### 🧩 [Daily Work Log Extension](https://github.com/TahashiburRahman/task-update-extension)
+An offline-first browser extension that saves work entries locally.
 
 ---
 
-## 05 / My GitHub activity
+## 05 / GitHub activity
 
-Rather than embedding unreliable external statistics, these links take you directly to **GitHub's own live activity and source code**.
+<div align="center">
 
-| Explore | What you'll find |
-| :--- | :--- |
-| 📈 **[Contribution activity](https://github.com/TahashiburRahman?tab=overview)** | My public contribution calendar and activity overview |
-| 🗂️ **[Repositories](https://github.com/TahashiburRahman?tab=repositories)** | Projects, code and experiments |
-| ⭐ **[Starred projects](https://github.com/TahashiburRahman?tab=stars)** | Tools and projects I find interesting |
-| 🔎 **[Recent commits](https://github.com/search?q=author%3ATahashiburRahman&type=commits)** | Public commit history searchable on GitHub |
+**Want to see what I'm working on?**
 
-<sub>GitHub displays contributions and activity according to its visibility and contribution settings.</sub>
+<a href="https://github.com/TahashiburRahman?tab=overview"><img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-FA4201?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/></a>
+<a href="https://github.com/TahashiburRahman?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-9747FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="https://github.com/TahashiburRahman?tab=stars"><img src="https://img.shields.io/badge/STARRED_PROJECTS-00AFCB?style=for-the-badge&logo=github&logoColor=white" alt="Starred projects"/></a>
+
+</div>
+
+My contribution calendar and repository activity are maintained directly by GitHub. These links stay useful even if third-party stats services are unavailable.
 
 ---
 
