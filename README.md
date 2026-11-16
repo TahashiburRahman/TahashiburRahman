@@ -45,29 +45,15 @@ I'm **Tahashibur Rahman**, a web developer who likes the intersection of **clean
 
 ## 02 / My developer toolbox
 
+A full-width view of the technologies I work with and explore, from responsive interfaces to Laravel and WordPress projects.
+
 <div align="center">
 
-<img width="100%" src="assets/development-map.svg" alt="Graphic connecting frontend, Laravel, WordPress and JavaScript development"/>
-
-<br>
-
-**Frontend & styling**
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark" alt="HTML CSS Bootstrap JavaScript"/>
-
-**Backend, CMS & database**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql&theme=dark" alt="PHP Laravel WordPress MySQL"/>
-
-**Languages I'm learning and exploring**
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Python C C++"/>
-
-**Tools & creative workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ps&theme=dark" alt="Git GitHub VS Code Photoshop"/>
+<img width="100%" src="assets/toolbox-cards.svg" alt="Four colorful developer tool cards: frontend, backend, languages and workflow"/>
 
 </div>
+
+<sub>Python is an area I'm actively learning. </sub>
 
 ---
 
@@ -87,13 +73,13 @@ I'm **Tahashibur Rahman**, a web developer who likes the intersection of **clean
 
 ---
 
-## 04 / Selected work
+## 04 / Repository landscape & selected work
 
 <div align="center">
 
-<img width="100%" src="assets/project-mix.svg" alt="Donut chart: 3 Laravel projects, 1 WordPress project and 1 browser extension in the featured selection"/>
+<img width="100%" src="assets/all-repository-languages.svg" alt="Donut chart for 42 repositories grouped by primary language: HTML 18, JavaScript 7, PHP 6, Python 5, TypeScript 1, CSS 1, unclassified 4"/>
 
-<sub>This chart represents the five projects featured below, not a count of all my repositories or a language usage analysis.</sub>
+<sub>Based on GitHub's primary-language repository search at the time of this update. It includes the profile repository; four repositories did not match the language categories and are labeled unclassified. This is not a line-of-code breakdown.</sub>
 
 </div>
 
