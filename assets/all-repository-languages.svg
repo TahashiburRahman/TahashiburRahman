@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 445" role="img" aria-label="Primary languages for 42 GitHub repositories: 18 HTML, 7 JavaScript, 6 PHP, 5 Python, 1 TypeScript, 1 CSS and 4 not classified">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#1c1230"/></linearGradient></defs>
+<rect width="860" height="445" rx="24" fill="url(#bg)"/><rect x="1" y="1" width="858" height="443" rx="23" fill="none" stroke="#343a54"/>
+<text x="36" y="46" font-family="Verdana,sans-serif" font-size="25" fill="#fff" font-weight="bold">ALL REPOSITORIES / LANGUAGE MIX</text>
+<text x="36" y="70" font-family="Verdana,sans-serif" font-size="14" fill="#aebbd2">Primary-language classification • 42 GitHub repositories</text>
+<g transform="rotate(-90 220 232)"><circle cx="220" cy="232" r="100" fill="none" stroke="#00d9ff" stroke-width="36" stroke-dasharray="268.38 359.94" stroke-dashoffset="0.00"/>
+<circle cx="220" cy="232" r="100" fill="none" stroke="#f7df1e" stroke-width="36" stroke-dasharray="103.82 524.50" stroke-dashoffset="-269.28"/>
+<circle cx="220" cy="232" r="100" fill="none" stroke="#fa4201" stroke-width="36" stroke-dasharray="88.86 539.46" stroke-dashoffset="-374.00"/>
+<circle cx="220" cy="232" r="100" fill="none" stroke="#4ca9ff" stroke-width="36" stroke-dasharray="73.90 554.42" stroke-dashoffset="-463.76"/>
+<circle cx="220" cy="232" r="100" fill="none" stroke="#a46bff" stroke-width="36" stroke-dasharray="14.06 614.26" stroke-dashoffset="-538.56"/>
+<circle cx="220" cy="232" r="100" fill="none" stroke="#e879f9" stroke-width="36" stroke-dasharray="14.06 614.26" stroke-dashoffset="-553.52"/>
+<circle cx="220" cy="232" r="100" fill="none" stroke="#64748b" stroke-width="36" stroke-dasharray="58.94 569.38" stroke-dashoffset="-568.48"/></g>
+<text x="220" y="224" text-anchor="middle" font-size="55" font-family="Verdana,sans-serif" font-weight="bold" fill="#fff">42</text>
+<text x="220" y="253" text-anchor="middle" font-size="17" font-family="Verdana,sans-serif" fill="#adbdd4">repositories</text>
+<g font-family="Verdana,sans-serif"><circle cx="420" cy="145" r="7" fill="#00d9ff"/><text x="436" y="150" font-size="17" fill="#e9eefb">HTML</text><text x="436" y="171" font-size="14" fill="#9bacc7">18 repos</text><circle cx="420" cy="207" r="7" fill="#f7df1e"/><text x="436" y="212" font-size="17" fill="#e9eefb">JavaScript</text><text x="436" y="233" font-size="14" fill="#9bacc7">7 repos</text><circle cx="420" cy="269" r="7" fill="#fa4201"/><text x="436" y="274" font-size="17" fill="#e9eefb">PHP</text><text x="436" y="295" font-size="14" fill="#9bacc7">6 repos</text><circle cx="420" cy="331" r="7" fill="#4ca9ff"/><text x="436" y="336" font-size="17" fill="#e9eefb">Python</text><text x="436" y="357" font-size="14" fill="#9bacc7">5 repos</text><circle cx="626" cy="145" r="7" fill="#a46bff"/><text x="642" y="150" font-size="17" fill="#e9eefb">TypeScript</text><text x="642" y="171" font-size="14" fill="#9bacc7">1 repo</text><circle cx="626" cy="207" r="7" fill="#e879f9"/><text x="642" y="212" font-size="17" fill="#e9eefb">CSS</text><text x="642" y="233" font-size="14" fill="#9bacc7">1 repo</text><circle cx="626" cy="269" r="7" fill="#64748b"/><text x="642" y="274" font-size="17" fill="#e9eefb">Other / unclassified</text><text x="642" y="295" font-size="14" fill="#9bacc7">4 repos</text></g>
+<text x="35" y="408" font-family="Verdana,sans-serif" font-size="13" fill="#9eacc4">Repository count by primary language, not code volume or developer proficiency</text>
+</svg>
