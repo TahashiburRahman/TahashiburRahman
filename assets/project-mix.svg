@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 330" role="img" aria-label="Five selected projects: three Laravel, one WordPress and one browser extension">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#17112a"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<rect width="860" height="330" rx="22" fill="url(#bg)"/><rect x="1" y="1" width="858" height="328" rx="21" fill="none" stroke="#343145"/>
+<text x="34" y="44" fill="#f6f7fb" font-size="22" font-family="Verdana,sans-serif" font-weight="bold">FEATURED PROJECT MIX</text>
+<text x="34" y="68" fill="#aeb7cc" font-size="13" font-family="Verdana,sans-serif">5 projects highlighted on this profile</text>
+<circle cx="245" cy="181" r="88" fill="none" stroke="#283144" stroke-width="29"/>
+<g transform="rotate(-90 245 181)" fill="none" stroke-width="29">
+<circle cx="245" cy="181" r="88" stroke="#fa4201" stroke-dasharray="331.75 553" stroke-dashoffset="0"/>
+<circle cx="245" cy="181" r="88" stroke="#a46bff" stroke-dasharray="110.58 553" stroke-dashoffset="-331.75"/>
+<circle cx="245" cy="181" r="88" stroke="#00d9ff" stroke-dasharray="110.58 553" stroke-dashoffset="-442.33"/>
+</g>
+<text x="245" y="181" text-anchor="middle" fill="#ffffff" font-size="43" font-weight="bold" font-family="Verdana,sans-serif">5</text>
+<text x="245" y="206" text-anchor="middle" fill="#aeb7cc" font-size="14" font-family="Verdana,sans-serif">projects</text>
+<g font-family="Verdana,sans-serif"><circle cx="492" cy="128" r="7" fill="#fa4201"/><text x="514" y="134" font-size="19" fill="#ffffff">Laravel applications</text><text x="804" y="134" text-anchor="end" font-size="22" fill="#fa4201" font-weight="bold">3</text>
+<circle cx="492" cy="190" r="7" fill="#a46bff"/><text x="514" y="196" font-size="19" fill="#ffffff">WordPress website</text><text x="804" y="196" text-anchor="end" font-size="22" fill="#a46bff" font-weight="bold">1</text>
+<circle cx="492" cy="252" r="7" fill="#00d9ff"/><text x="514" y="258" font-size="19" fill="#ffffff">Browser extension</text><text x="804" y="258" text-anchor="end" font-size="22" fill="#00d9ff" font-weight="bold">1</text></g></svg>
