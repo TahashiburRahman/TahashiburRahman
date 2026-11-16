@@ -35,6 +35,14 @@ I'm **Tahashibur Rahman**, a web developer who likes the intersection of **clean
 
 ---
 
+<div align="center">
+
+<img width="100%" src="assets/code-loop.svg" alt="Animated coding loop: build, learn, create, repeat"/>
+
+</div>
+
+---
+
 ## 02 / My developer toolbox
 
 <div align="center">
