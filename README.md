@@ -1,57 +1,257 @@
-![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm Tahashibur Rahman</h1>
-<h3 align="center">A passionate web developer from Bangladesh who loves his work</h3>
-<img align="right" alt="Coding" width="200" height="180" src="https://miro.medium.com/max/534/0*_pWYv_PSM3zqE3dV.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahashiburrahman&label=Profile%20views&color=0e75b6&style=flat" alt="tahashiburrahman" /> </p>
-<p align="left"> <a href="https://twitter.com/@tahashib3" target="blank"><img src="https://img.shields.io/twitter/follow/Tahashib3?color=skyblue&label=Follow-to-support&logo=Twitter&style=for-the-badge" alt="@tahashib3" /></a> </p>
-<p align="left"><a href="https://www.facebook.com/tasu10100/"><img src="https://custom-icon-badges.herokuapp.com/badge/find-me-blue.svg?logo=search&logoColor=green" alt="tasu"/></a></p>
 
-- 🔭 I’m currently working on **Track Back**
+<div align="center">
 
-- 🌱 I’m currently learning **Intermediate level Python**
+![GitHub Banner](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
-- 💬 Ask me about **html,css,react,javascript**
+<h1>Hi there, I'm Tahashibur Rahman 👋</h1>
 
-- 📫 How to reach me **tahashiburrahman5@gmail.com**
+<h3>Web Developer | PHP & Laravel | React & JavaScript</h3>
 
-- ⚡ Fun fact **I love sarcasm and hangout**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/tashu__3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tashu__3" height="30" width="40" /></a>
-<a href="https://codepen.io/tahashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahashib" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19826810/tashu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tashu3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tahashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tahashib" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@tahashiburrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tahashiburrahman" height="30" width="40" /></a>
+<p>
+  Passionate about building modern, responsive, and user-friendly web applications.
+  <br>
+  Based in Bangladesh 🇧🇩
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-     </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=TahashiburRahman&label=Profile+Views&color=fa4201&style=flat-square" alt="Profile Views"/>
 </p>
-<hr>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tahashiburrahman&show_icons=true&locale=en" alt="tahashiburrahman" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahashiburrahman&show_icons=true&locale=en&layout=compact" alt="tahashiburrahman" /></p>
+<a href="https://www.linkedin.com/in/tahashib7/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:tahashiburrahman5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-fa4201?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.facebook.com/Tahashib7/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.instagram.com/tahashib7/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahashiburrahman&" alt="tahashiburrahman" /></p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="200" alt="Coding Animation" src="https://miro.medium.com/max/534/0*_pWYv_PSM3zqE3dV.gif"/>
+
+I'm **Tahashibur Rahman**, a web developer from Bangladesh with a passion for creating modern websites and practical web applications.
+
+My development interests span **frontend development, backend development, responsive UI design, and database-driven applications**.
+
+I enjoy working with **PHP, Laravel, JavaScript, React, HTML, CSS, and MySQL** to turn ideas into functional digital experiences.
+
+For me, writing code is more than a technical skill. It's about understanding problems, finding creative solutions, and continuously improving.
+
+- 🔭 **Currently working on:** Track Back
+- 💻 **Development focus:** PHP, Laravel, JavaScript & React
+- 🌱 **Currently learning:** Python and backend concepts
+- 🎨 **Interested in:** UI/UX, responsive design & web performance
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React & web development
+- 📍 **Location:** Bangladesh 🇧🇩
+- 📫 **Email:** tahashiburrahman5@gmail.com
+- ⚡ **Fun fact:** I enjoy sarcasm, hanging out, and good conversations
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Development
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+</a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>&nbsp;&nbsp;
+<a href="https://react.dev/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</a>
+
+<br><br>
+
+### Backend & Database
+
+<a href="https://www.php.net/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+</a>&nbsp;&nbsp;
+<a href="https://laravel.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.python.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+
+<br><br>
+
+### Other Programming Languages
+
+<a href="https://en.cppreference.com/w/c">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+</a>&nbsp;&nbsp;
+<a href="https://isocpp.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</a>
+
+<br><br>
+
+### Development Tools & Design
+
+<a href="https://git-scm.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/products/photoshop.html">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 What I Do
+
+I'm interested in developing practical, visually appealing websites that offer a smooth experience across different devices.
+
+| Area | Skills & Interests |
+| :--- | :--- |
+| 🌐 Frontend Development | HTML, CSS, JavaScript, React |
+| ⚙️ Backend Development | PHP, Laravel |
+| 🗄️ Database Development | MySQL |
+| 📱 Responsive Web Design | Mobile-friendly layouts and interfaces |
+| 🎨 UI/UX Development | Clean design, usability and interactions |
+| 🛒 E-commerce Development | Product pages, categories and storefront interfaces |
+| 🐍 Programming | Python, C and C++ |
+
+I enjoy writing maintainable code and learning new approaches to solve development challenges.
+
+---
+
+## 📌 Currently Exploring
+
+- Building modern web applications using **Laravel and React**
+- Improving **responsive web design and frontend performance**
+- Working with **database-driven applications**
+- Exploring **Python and backend architecture**
+- Learning more about **UI/UX and user-centered development**
+
+> Keep learning, keep experimenting, and keep building.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=TahashiburRahman&show_icons=true&hide_border=true&theme=transparent&title_color=fa4201&icon_color=fa4201&text_color=888888&rank_icon=github"
+  alt="Tahashibur Rahman's GitHub Statistics"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahashiburRahman&layout=compact&hide_border=true&theme=transparent&title_color=fa4201&text_color=888888&langs_count=8"
+  alt="Most Used Programming Languages"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=TahashiburRahman&theme=transparent&hide_border=true&ring=fa4201&fire=fa4201&currStreakLabel=fa4201"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tahashib7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.facebook.com/Tahashib7/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="https://www.instagram.com/tahashib7/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://x.com/tahashib7">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<a href="https://codepen.io/tahashib">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+</a>
+
+<br>
+
+<a href="https://stackoverflow.com/users/19826810/tashu3">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+</a>
+
+<a href="https://codeforces.com/profile/tahashib">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+<a href="https://www.hackerearth.com/@tahashiburrahman">
+  <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something
+
+I'm always interested in connecting with developers, learning from others, and discussing interesting web development projects.
+
+Whether you want to collaborate, share ideas, or simply talk about technology, feel free to reach out.
+
+<br>
+
+<a href="mailto:tahashiburrahman5@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Me_an_Email-fa4201?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tahashib7/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<br><br>
+
+**Thanks for visiting my GitHub profile!** 👋
+
+*Keep learning. Keep building. Stay curious.*
+
+<br>
+
+Made with ☕ and curiosity by **[Tahashibur Rahman](https://github.com/TahashiburRahman)**
+
+</div>
