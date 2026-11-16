@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="86" viewBox="0 0 860 86" role="img" aria-label="Animated code line: build, learn, create">
+<rect width="860" height="86" rx="18" fill="#101722"/><rect x="1" y="1" width="858" height="84" rx="17" fill="none" stroke="#303b53"/>
+<g font-family="monospace" font-size="22" font-weight="bold"><text x="35" y="51" fill="#fa4201">&lt;build&gt;</text><text x="240" y="51" fill="#b182ff">learn()</text><text x="433" y="51" fill="#00d9ff">create()</text><text x="644" y="51" fill="#cdd6e7">repeat();</text></g>
+<rect x="794" y="29" width="11" height="29" fill="#fa4201"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="35" y="68" width="0" height="3" rx="1" fill="#00d9ff"><animate attributeName="width" values="0;760;760;0" keyTimes="0;.6;.85;1" dur="6s" repeatCount="indefinite"/></rect>
+</svg>
