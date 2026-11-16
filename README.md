@@ -26,10 +26,10 @@ I build responsive websites, thoughtful interfaces, and practical web applicatio
 I'm **Tahashibur Rahman**, a web developer who likes the intersection of **clean design and working code**. I enjoy frontend details, backend logic, and turning complex ideas into experiences that feel simple to use.
 
 - 🔭 **Building:** Track Back
-- ⚙️ **Working with:** PHP, Laravel, JavaScript, React, HTML, CSS and MySQL
+- ⚙️ **Working with:** PHP, Laravel, Bootstrap, JavaScript, HTML, CSS, MySQL and WordPress
 - 🌱 **Learning:** Python and deeper backend concepts
 - 🎨 **Interested in:** UI/UX, responsive design, web performance and e-commerce
-- 💬 **Ask me about:** HTML, CSS, React and JavaScript
+- 💬 **Ask me about:** HTML, CSS, Bootstrap and JavaScript
 - 📬 **Reach me:** [tahashiburrahman5@gmail.com](mailto:tahashiburrahman5@gmail.com)
 - ⚡ **Beyond code:** Sarcasm, hanging out and good conversations
 
@@ -37,14 +37,47 @@ I'm **Tahashibur Rahman**, a web developer who likes the intersection of **clean
 
 ## 02 / Developer toolbox
 
-A mix of technologies I use, practice and keep exploring.
+My stack is centered on **responsive frontend development, PHP/Laravel applications and WordPress websites**. I like giving every project a clean layout and a solid foundation.
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) |
-| **Backend & data** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Tools & design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-343A40?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
+<table>
+  <tr>
+    <td width="28%"><strong>🎨 Frontend & Styling</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Backend & CMS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>💻 Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🧰 Workflow & Design</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+    </td>
+  </tr>
+</table>
+
+<sub>Bootstrap is part of my responsive UI toolkit; Python is something I'm continuing to learn.</sub>
 
 ---
 
@@ -62,7 +95,21 @@ A mix of technologies I use, practice and keep exploring.
 
 ---
 
-## 04 / My GitHub activity
+## 04 / Selected repositories
+
+Here are a few examples of the things I've built and explored:
+
+| Project | Focus |
+| :--- | :--- |
+| 🛒 **[Laravel E-commerce](https://github.com/TahashiburRahman/Basic-Ecommerce-Laravel-12)** | E-commerce application using Laravel |
+| 💼 **[Job Finder BD](https://github.com/TahashiburRahman/job-portal)** | Laravel 12, PHP and MySQL job portal |
+| 🏢 **[Office Management System](https://github.com/TahashiburRahman/OMS-Laravel)** | Laravel-based management application |
+| 📰 **[WordPress Dynamic Website](https://github.com/TahashiburRahman/WordPress-FullStack-Dynamic-Website-Sixthandrio)** | WordPress website project |
+| 🧩 **[Daily Work Log Extension](https://github.com/TahashiburRahman/task-update-extension)** | Browser extension using local storage |
+
+---
+
+## 05 / My GitHub activity
 
 Rather than embedding unreliable external statistics, these links take you directly to **GitHub's own live activity and source code**.
 
@@ -77,7 +124,7 @@ Rather than embedding unreliable external statistics, these links take you direc
 
 ---
 
-## 05 / Around the web
+## 06 / Around the web
 
 <div align="center">
 
